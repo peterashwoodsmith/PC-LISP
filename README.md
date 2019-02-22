@@ -18,3 +18,5 @@ for reference.
 
 See: BUILD.txt
 
+Forked a copy to my repository with thanks to Blake for porting it to more modern Windows systems.
+
